@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif, monospace;
+}
+
+
+#section1 {
+    width: 390px;
+    text-align: center;
+}
+
+
+
+h1 {
+    color: rgb(255, 103, 128);
+}
+
+#goobie {
+    width: 300px;
+
+}
+
+#yes {
+    width:70px;
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+#no {
+    width: 70px;
+}

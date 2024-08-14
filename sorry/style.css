@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
+#section1 {
+    width: 390px;
+    text-align: center;
+}
+
+
+#cat {
+    width: 300px;
+    margin-top: 0;
+}
+
+button {
+    margin-top: 60px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(255, 232, 236);
+    font-size: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: red;
+}
